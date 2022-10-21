@@ -1,3 +1,3 @@
 #display the output 
 
-print("hello world")
+print("Hello World")
